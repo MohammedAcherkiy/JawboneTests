@@ -14,8 +14,8 @@ public class DataProviderFile {
 			obj = new Object[1][6];
 			obj[0][0] = "FirstName";
 			obj[0][1] = "LastName";
-			obj[0][2] = "casablanca123@hotmail.com";
-			obj[0][3] = "casablanca123@hotmail.com";
+			obj[0][2] = "casa1234!@hotmail.com";
+			obj[0][3] = "casa1234!@hotmail.com";
 			obj[0][4] = "passWord";
 			obj[0][5] = "passWord";
 
@@ -23,7 +23,7 @@ public class DataProviderFile {
 		if (m.getName().equals("LogInWithValidCredential")) {
 
 			obj = new Object[1][2];
-			obj[0][0] = "casablanca123@hotmail.com";
+			obj[0][0] = "casa1234!@hotmail.com";
 			obj[0][1] = "passWord";
 
 		}
